@@ -24,7 +24,8 @@ help_msg = """/help 查看帮助信息
 /dui [上联] 对对联
 /resou 查看微博热搜
 /getbli [B站URL] 获取B站封面
-/py [短消息] 查找短消息是否是谣言"""
+/py [短消息] 查找短消息是否是谣言
+"""
 
 mps = []
 for mp in config['mps']:
