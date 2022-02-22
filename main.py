@@ -25,6 +25,9 @@ help_msg = """/help 查看帮助信息
 /resou 查看微博热搜
 /getbli [B站URL] 获取B站封面
 /py [短消息] 查找短消息是否是谣言
+测试一
+测试二
+pr测试
 """
 
 mps = []
